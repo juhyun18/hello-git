@@ -19,6 +19,6 @@ public class Main {
 		System.out.println("Hello git");
 	}
 	public void feature() {
-		
+		System.out.println("feeeeeeeeeeeeeeeeeture!");
 	}
 }
