@@ -12,6 +12,7 @@ package com.sh.git;
 public class Main {
 	public void master() {
 		System.out.println("master!!!!");
+		System.out.println("orgin/master에서 작성함!!!");
 	}
 	
 	public static void main(String[] args) {
